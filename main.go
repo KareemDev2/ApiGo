@@ -45,8 +45,8 @@ func (p *Player) save() error {
 func main() {
 	// Création d'un exemple de joueur
 	player := Player{
-		Nom:    "Dupont",
-		Pseudo: "Dupu",
+		Nom:    "Tommy",
+		Pseudo: "Tom",
 		Age:    25,
 		Health: 100,
 		Mana:   50,
